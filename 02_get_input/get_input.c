@@ -8,7 +8,6 @@ int main(void){
     // Get the input
     scanf("%d", &square_side); // & sign is an address operator
 
-
     int square_perimeter = square_side*4; 
     int square_area = square_side*square_side;
 
